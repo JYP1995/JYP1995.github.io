@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "공부 메모장"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
+name                     : "개발공부"
 description              : "An amazing website."
 url                      : "https://JYP1995.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
